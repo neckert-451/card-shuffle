@@ -1,3 +1,8 @@
 # card-shuffle
 
-This repo contains the json code to run a card shuffle game in react
+This repo contains the files I used to create a React card shuffle web app.
+Includes all JavaScript and CSS files.
+
+>> Run app from cmd: 
+>> my-app
+>> npm start
